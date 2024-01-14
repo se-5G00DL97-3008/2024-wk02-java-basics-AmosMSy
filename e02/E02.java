@@ -8,7 +8,7 @@ class E02 {
         System.out.println("Give a number:");
         int firstNumber = input.nextInt();
 
-        System.out.println("Give a another number:");
+        System.out.println("Give another number:");
         int secondNumber = input.nextInt();
 
         System.out.println(firstNumber + " + " + secondNumber + " = " + (firstNumber + secondNumber));
