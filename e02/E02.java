@@ -5,10 +5,10 @@ class E02 {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Give me a number:");
+        System.out.println("Give a number:");
         int firstNumber = input.nextInt();
 
-        System.out.println("Give me a another number:");
+        System.out.println("Give a another number:");
         int secondNumber = input.nextInt();
 
         System.out.println(firstNumber + " + " + secondNumber + " = " + (firstNumber + secondNumber));

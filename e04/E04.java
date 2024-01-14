@@ -13,7 +13,7 @@ class E04 {
 
         if (day == 24 && month == 12)
         {
-            System.out.println("Merry Christmas");
+            System.out.println("Merry Cristmas");
         }
 
         input.close();
